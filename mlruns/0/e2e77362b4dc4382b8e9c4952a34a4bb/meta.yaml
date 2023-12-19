@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/data_science/mlflow_tutorial/mlruns/0/e2e77362b4dc4382b8e9c4952a34a4bb/artifacts
+end_time: 1703021494744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2e77362b4dc4382b8e9c4952a34a4bb
+run_name: orderly-penguin-97
+run_uuid: e2e77362b4dc4382b8e9c4952a34a4bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703021493198
+status: 3
+tags: []
+user_id: apri4

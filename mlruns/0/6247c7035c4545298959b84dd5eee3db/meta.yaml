@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/data_science/mlflow_tutorial/mlruns/0/6247c7035c4545298959b84dd5eee3db/artifacts
+end_time: 1703021485917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6247c7035c4545298959b84dd5eee3db
+run_name: able-loon-476
+run_uuid: 6247c7035c4545298959b84dd5eee3db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703021484252
+status: 3
+tags: []
+user_id: apri4
